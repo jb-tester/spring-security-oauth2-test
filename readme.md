@@ -3,4 +3,4 @@ irina.petrovskaya@jetbrains.com
 
 client_id=177705995404-kj4gfsm92sbcot52gvqdsqa67vsksrir.apps.googleusercontent.com
 client_secret=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
-redirect_uri=http://localhost:8081/login/oauth2/code/jbtests
+redirect_uri=http://localhost:8081/login/oauth2/code/google
